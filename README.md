@@ -78,8 +78,8 @@
 
 <p align="center">
   <a href="https://github.com/vinaykumarSalesforce">
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarSalesforce&theme=radical&border=7F3FBF&background=0D1117" alt="Vinay Kumar's GitHub streak"/>](https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarSalesforce&theme=radical&border=7F3FBF&background=0D1117
-)
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarSalesforce&theme=radical&border=7F3FBF&background=0D1117" alt="Vinay Kumar's GitHub streak"/>
 </a>
 
 </p>
