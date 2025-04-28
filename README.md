@@ -24,10 +24,7 @@
 <p align="center">
 
 
- 
-<a href="https://www.salesforce.com/trailblazer/vinaykumarpbc87n40rqeo" target="_blank">
-  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
-</a>
+
 
   
  <a href="https://www.linkedin.com/in/vinay-kumar-gottala-70584a271/" target="_blank">
