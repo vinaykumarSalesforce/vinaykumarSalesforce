@@ -14,7 +14,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://rrootshell-3f-dev-ed.develop.my.site.com/portfoliovinay/">「 My Website 」</a>
     <br>
     「 a Salesforce developer from <b>Hyderabad</b> 」
     <br>
